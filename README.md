@@ -1,39 +1,34 @@
-# Hospital_SIR_Analysis 🏥📊
+# 🏥 Hospital SIR Analysis — Healthcare-Associated Infections Dashboard
 
-<!-- Badges -->
-![License](https://img.shields.io/badge/License-MIT-green)
-![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-blue?logo=tableau)
-![Healthcare](https://img.shields.io/badge/Domain-Healthcare-red)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--01-orange)
+#️⃣ #HealthcareAnalytics #Tableau #PublicHealth #InfectionControl #QualityImprovement
 
-[![View Dashboard](https://img.shields.io/badge/View-Dashboard-blue?logo=tableau)](https://public.tableau.com/app/profile/hasina.khushzad/viz/Hospital_SIR_Infection_Analysis/Dashboard1)
+---
+
+## 🌟 Project Overview
+
+- 📊 Develops an interactive Tableau dashboard analyzing California Healthcare-Associated Infections (HAI) data  
+
+- 🏥 Evaluates hospital performance using **Standardized Infection Ratio (SIR)**, infection rates, and facility type comparisons  
+
+- 💡 Supports data-driven insights into **hospital quality, patient safety, and infection control effectiveness**  
+
+- 📌 Enables stakeholders to identify performance gaps and improvement opportunities across healthcare facilities  
 
 ---
 
 ## 🔗 Live Dashboard
-👉 **Explore the interactive dashboard here:**  
-https://public.tableau.com/app/profile/hasina.khushzad/viz/Hospital_SIR_Infection_Analysis/Dashboard1  
 
----
-
-## 🔍 Overview
-This project presents an **interactive Tableau dashboard** analyzing **California Healthcare-Associated Infections (HAI)**.  
-
-It focuses on evaluating hospital performance using:
-- **Standardized Infection Ratio (SIR)**
-- **Infection Rates**
-- **Facility Type comparisons**
-
-The goal is to support **data-driven healthcare quality improvement** through intuitive visual analytics.
+👉 https://public.tableau.com/app/profile/hasina.khushzad/viz/Hospital_SIR_Infection_Analysis/Dashboard1  
 
 ---
 
 ## 📊 Dashboard Features
-- 📌 Interactive filters for exploring hospitals and facility types  
+
+- 📌 Interactive filters for hospital and facility-level exploration  
 - 🎨 Color-coded performance indicators (SIR > 1 vs SIR < 1)  
-- 📈 Scatter plot comparing SIR vs Infection Rate  
-- 📊 Bar charts for facility type performance comparison  
-- 🔎 Drill-down capability for individual facility insights  
+- 📈 Scatter plot comparing SIR vs infection rates  
+- 📊 Bar charts for facility-type performance comparison  
+- 🔎 Drill-down capability for individual hospital analysis  
 
 ---
 
@@ -41,49 +36,58 @@ The goal is to support **data-driven healthcare quality improvement** through in
 
 | Metric | Description |
 |--------|-------------|
-| **SIR (Standardized Infection Ratio)** | Risk-adjusted ratio of observed vs. predicted infections |
-| **Infection Rate** | Infections per 1,000 central line days |
-| **Facility Type** | Hospital category for comparative analysis |
+| 🏥 SIR (Standardized Infection Ratio) | Risk-adjusted measure of observed vs expected infections |
+| 📊 Infection Rate | Infections per 1,000 central line days |
+| 🏢 Facility Type | Hospital category used for comparative analysis |
 
 ---
 
 ## 🧰 Tools & Technologies
-- 📊 Tableau (Data Visualization & Dashboarding)  
-- 🐍 Python (Data Cleaning & Preparation)  
-- 📁 Excel / CSV (Data Source)  
+
+- 📊 Tableau — Data visualization & dashboard development  
+- 🐍 Python — Data cleaning and preprocessing  
+- 📁 Excel / CSV — Data preparation and structuring  
 
 ---
 
 ## 🧠 Key Insights
-- Certain facility types show consistently higher SIR values, indicating potential risk areas  
-- Infection rates vary significantly across hospitals within the same category  
-- Some hospitals outperform predicted infection benchmarks, suggesting effective infection control practices  
+
+- ⚠️ Certain facility types demonstrate consistently higher SIR values, indicating potential risk concentration areas  
+- 📊 Infection rates vary significantly across hospitals within the same facility category  
+- 🌟 Some hospitals outperform expected infection benchmarks, suggesting effective infection prevention practices  
+- 📌 Performance variation highlights opportunities for targeted quality improvement initiatives  
 
 ---
 
 ## 📁 Data Source
-- California Department of Public Health (CDPH)  
-- Healthcare-Associated Infections (HAI) dataset  
+
+- 🏛️ California Department of Public Health (CDPH)  
+- 🦠 Healthcare-Associated Infections (HAI) Dataset  
 
 ---
 
 ## 🛠️ Data Preparation
-- Filtered for hospitals with complete SIR and infection rate data  
-- Calculated average SIR by facility type  
-- Created calculated fields for performance-based color coding  
+
+- 🧹 Filtered hospitals with complete SIR and infection rate records  
+- 📊 Calculated average SIR by facility type  
+- 🎨 Created calculated fields for performance-based visualization coloring  
+- 📌 Standardized dataset for Tableau dashboard integration  
 
 ---
 
 ## 🚀 Future Improvements
-- Add time-series analysis to track infection trends over multiple years  
-- Incorporate geographic mapping for county-level insights  
-- Expand dashboard to include additional HAI metrics  
+
+- 📈 Add time-series analysis to track infection trends over time  
+- 🗺️ Incorporate geographic mapping for county-level risk analysis  
+- 🏥 Expand dashboard to include additional HAI quality indicators  
 
 ---
 
-## 👤 About Me
-Aspiring **Healthcare Data Analyst** passionate about using data to improve patient outcomes.  
-Skilled in Tableau, data visualization, and healthcare analytics.
+## 👤 About This Work
+
+- 📊 Healthcare analytics project focused on improving patient safety outcomes through data visualization  
+- 🧠 Demonstrates skills in Tableau, healthcare data interpretation, and quality improvement analytics  
+- 🎯 Aligned with healthcare performance monitoring and public health reporting frameworks  
 
 ---
 
